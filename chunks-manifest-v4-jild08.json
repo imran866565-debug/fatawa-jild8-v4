@@ -1,0 +1,152 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 8, pp. 5-108",
+   "end_page": 108,
+   "file": "jild-08-chunk-01.json",
+   "items": 44,
+   "pages_present": 63,
+   "start_page": 5,
+   "status": "done",
+   "verified": "2026-11-18 ~11:39 PKT — coordinator verified: 44 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 2/2 (jild8-p5, jild8-p9, as v3), notes 39 vs 38 (+1 added: \"گاگر\" flagged as unexplained local term in the original), glosses 287x 'کا مطلب' + 16x 'کہتے ہیں', A1=0 (no opponent names occur at all; 1124 'فرماتے ہیں' flags are علمائے دین/علمائے کرام), A2 kept: ملعون p80, احمق p98, مردود p104, گمراہ p72, کافر p77 + p106; 34 'کتا' hits all کتاب. Flags: masala-1163 incomplete as in v3 (sawal breaks off mid-sentence p108); 'گاگر' (1160) left unglossed, flagged in note."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 8, pp. 109-158",
+   "end_page": 158,
+   "file": "jild-08-chunk-02.json",
+   "items": 39,
+   "pages_present": 48,
+   "start_page": 109,
+   "status": "done",
+   "verified": "2026-11-18 ~11:40 PKT — coordinator verified: 39 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 1/1 (jild8-p134, as v3), notes 29 vs 28 (+1), glosses 481x 'کا مطلب' + 8x 'کہتے ہیں', A1=0 (وہابی/قادیانی/مرزائی/خوارج/شیعہ scanned, no honorific verb within ±60 chars), A2 kept: مردود p155, گمراہی p155, باطل pp.155/1190/1180/1201, بدترین بدعت + موضوع pp.155/1201, مستحق لعنت خدا 1181, کفر و ضلال 1174. Restoration: 1175 sawal — p.120 clause «یہ کافروں کے عبادت خانے کو بھی شامل ہے» (dropped in v3) restored, flagged in note. Flags: source jild-08.json lacks pp.127 and 139 (v3 notes); 1204's jawab ends mid-sentence p158, continues chunk 03 (as in v3); 'جاری ہے' once, legitimate boundary note, also in v3."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 8, pp. 159-208",
+   "end_page": 208,
+   "file": "jild-08-chunk-03.json",
+   "items": 20,
+   "pages_present": 49,
+   "start_page": 159,
+   "status": "done",
+   "verified": "2026-11-18 ~11:37 PKT — coordinator verified: 20 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 20/20 (as v3), notes 6/6, glosses 142x 'کا مطلب' + 8x 'کہتے ہیں', A1=0 (Gangohi once, plain 'مانعین کے امام الطائفہ گنگوہی کے فتاویٰ حصہ ۳ میں ہے', no honorific verb nearby), A2 kept: باطل 16/16, جہل 1, حماقت 1, مہمل 1, جاہلانہ 3, افترا 3, کفر 5, غلط 8. Fix: v3 'شارح سمرقندی نے فرمایا' → 'لکھا' (fabricator of a forged narration gets no honorific); 3 late glosses added (مستحسن، منصوص، مصرح/متداولہ). Flags: none."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 8, pp. 209-258",
+   "end_page": 258,
+   "file": "jild-08-chunk-04.json",
+   "items": 33,
+   "pages_present": 48,
+   "start_page": 209,
+   "status": "done",
+   "verified": "2026-11-18 ~11:40 PKT — coordinator verified: 33 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 7/7 (as v3), notes 25/25, glosses 365x 'کا مطلب' + 172x 'کہتے ہیں', A1=0 (only 'اسماعیل' is علامہ اسماعیل مفتی دمشق الشام, Sunni mufti, plain 'تنبیہ کی ہے'), A2: no personal harsh insults in original pp.209-258 ('کتا' hits were 'ہوسکتا/جاسکتا' substrings, 'ضال' was 'الافضال'); فاسد 26 / باطل 12 kept, apparent per-item gaps proved overlap artifacts. A3: 14 gaps fixed after audit. Flags: pp.219 and 237 absent from source DB (v3 notes); masala-1266 incomplete, continues chunk 05."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 8, pp. 259-308",
+   "end_page": 308,
+   "file": "jild-08-chunk-05.json",
+   "items": 22,
+   "pages_present": 50,
+   "start_page": 259,
+   "status": "done",
+   "verified": "2026-11-18 ~11:42 PKT — coordinator verified: 22 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 0/0 (as v3), notes 55 vs 39 (+16), glosses 51x 'کا مطلب' + 117x 'کہتے ہیں', A1=0 (only opponent name is زاہدی معتزلہ, masala-1278; hashiya reworded to 'حاشیہ میں ہے:'), A2: no لعنتی/جہنمی/کتا/خبیث/زندیق/کذاب in original pp.259-308; harsh words kept (حرام 3/3, مستحق عذاب 1/1, ناجائز 11, مکروہ تحریمی 5, باطل 12, شریر 1, مفسد 3, موذی 2, گناہ 7). Restorations: all principal Arabic references restored in Arabic with Urdu translation; زاہدی hashiya + Persian couplet restored in 1278; v3 garbled chars fixed. 0 U+FFFD chars. Flags: masala-1294 ends mid-hashiya p308, remainder next chunk (as in v3). NOTE: the 'invalid chunk 05 file' seen mid-run was the original worker's mid-write state; a duplicate re-spawn was closed before writing anything."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 8, pp. 309-358",
+   "end_page": 358,
+   "file": "jild-08-chunk-06.json",
+   "items": 37,
+   "pages_present": 50,
+   "start_page": 309,
+   "status": "done",
+   "verified": "2026-11-18 ~11:37 PKT — coordinator verified: 37 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 15/15 (as v3), notes 81/81, glosses 122x 'کا مطلب' + 8x 'کہتے ہیں' (sawal+jawab; 146 file-wide), A1=0 (no opponent names occur at all; all 48 'فرمایا' for Ala Hazrat, Prophet ﷺ, or Sunni imams), A2 kept: بدعت سیئہ شنیعہ 2, قیاس فاسد 2, گدھا 1 (hadith), باطل 9, مفسدہ عقیدہ 2, شناعت 1, اوہام 2; raw 'کتا' 53x in original is کتابت. Restoration: 'بدعۃ قبیحۃ شنیعۃ' (p342) strengthened in 1306 to 'بدترین، قبیح و شنیع بدعت' (v3 had only 'بدترین بدعت'). 'جاری ہے' twice, both the original's own sentence 'عادت مسلمین یوں جاری ہے' (masala-1321), also in v3. Flags: masala-1322 سوال-only, جواب in chunk 07 (as in v3)."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 8, pp. 359-408",
+   "end_page": 408,
+   "file": "jild-08-chunk-07.json",
+   "items": 29,
+   "pages_present": 50,
+   "start_page": 359,
+   "status": "done",
+   "verified": "2026-11-18 ~11:38 PKT — coordinator verified: 29 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 7/7 (as v3, same ids), notes 65/65, glosses 385x 'کا مطلب' + 6x 'کہتے ہیں', A1=0 (no opponent names occur at all), A2 kept: احمق p398, گمراہی p390, شناعت x2 pp369-373, جہالت x3, کافر/کفار, باطل, مفسدت/مفاسد; original's 31 'کتا' hits all substrings (کتاب/کرسکتا/ہوسکتا). Fix: masala-1329 sawal — v3 'دوسرے مولوی صاحب فرماتے ہیں' → 'کہتے ہیں'. Flags: masala-1347 ends mid-discussion p408 (as in v3), continues chunk 08."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 8, pp. 409-458",
+   "end_page": 458,
+   "file": "jild-08-chunk-08.json",
+   "items": 39,
+   "pages_present": 50,
+   "start_page": 409,
+   "status": "done",
+   "verified": "2026-11-18 ~11:46 PKT — coordinator verified: 39 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 6/6 (as v3, same ids), notes 59/59, glosses 359x 'کا مطلب' + 7x 'کہتے ہیں' (sawal+jawab; 363 file-wide), A1=0 (1 flag — 'صدیق حسن' near 'فرماتے ہیں' — false positive: verb's subject is Ala Hazrat, صدیق حسن gets plain 'تھا'), A2 kept: بدعت شنیعہ 7, بدعت قبیحہ 10, مردود 4, گمراہ 15, فاسق 6, کافر 11, جاہل 7, بددین 3, خبثاء 2, مرتد 3, ناصبی/خارجی 3/3, باطل محض 5, باطل مبین 2, ظلم شدید/جہل بعید 2/2, خرط القتاد 3; standalone کتا/کذاب/لعنتی/جہنمی/بیوقوف = 0 in both original and v4. 'جاری ہے' twice, both legitimate (p409 boundary 'یہ بحث اس سے پہلے کے صفحات سے جاری ہے'; p423 'سکہ و خطبہ جاری ہے', original's own sentence), both also in v3. Flags: masala-1388 سوال-only, جواب next chunk (as in v3). NOTE: first worker 0176830b died on token-cap truncation with no file; this is the fresh re-spawn's file."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 8, pp. 459-508",
+   "end_page": 508,
+   "file": "jild-08-chunk-09.json",
+   "items": 19,
+   "pages_present": 46,
+   "start_page": 459,
+   "status": "done",
+   "verified": "2026-11-18 ~11:38 PKT — coordinator verified: 19 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 1/1 (jild8-p459, as v3), notes 56 vs 36 (+20), glosses 188x 'کا مطلب' + 7x 'کہتے ہیں', A1=0 (1 flag — شوکانی near 'فرمایا' — false positive: 'جمع فرمایا' is Ala Hazrat's verb, شوکانی's own verb is plain 'نقل کیا'), A2: 19/19 harsh phrases verified with pages (وہابیہ کفار مرتدین ہیں، باطل و مردود محض، جہالات وہابیہ، جہل و سفہ و تحکم، اشقیاء، شیخ نجدی یعنی ابلیس لعین، بدعقلوں کی بدزبانیاں، بیباکان پر سرف، ناپاک تشدد، طائفہ غیر مقلدین). Restorations: Arabic references restored where v3 had only Urdu (درمختار/ردالمحتار/خلاصہ/بدائع/کافی, مرقاۃ/فتح الباری/مسلم, حدیقہ/انوار/فتح المعین/مراقی/بحر/بخاری/علمگیری/حصن/تاتارخانیہ/مفتاح الصلوٰۃ + دعا ربنا آتنا, etc. + 4 Quranic ayahs in 1411). 'جاری ہے' once, legitimate boundary note in 1411 ('جس کا بیان صفحہ 508 کے بعد جاری ہے'), also in v3. Flags: source gaps pp.473, 478, 494, 506 absent from jild-08.json (v3 notes preserved); 1410 «ثرو اخلاص» left as-is, flagged in note; 1411 ends mid-sentence p508, continues chunk 10."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 8, pp. 509-558",
+   "end_page": 558,
+   "file": "jild-08-chunk-10.json",
+   "items": 21,
+   "pages_present": 50,
+   "start_page": 509,
+   "status": "done",
+   "verified": "2026-11-18 ~11:38 PKT — coordinator verified: 21 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 19/19 (as v3, same ids), notes 48 vs 44 (+4), glosses 210x 'کا مطلب' + 8x 'کہتے ہیں', A1=0 (1 false positive — 'عبدالحی نے لکھا۔ اعلیٰ حضرت فرماتے ہیں' p540; verb's subject is Ala Hazrat), A2 kept: گمراہ بد دین، مرتد، وہابیہ اہل تثلیث قرون، وائے بدبختی، ستم جری، ہوس خام، جہالت بے مزہ، جہول، مردود و باطل، بدعتی، مشرک و مجوز شرک، بے اصل و باطل و معیوب. Restorations: p536 hashiya restored (ذکر و دعا متساوی — absent from v3); p540 'تحریر فرمایا' → 'لکھا' for Lakhnavi; p552 'فرماتے ہیں' → 'کہتے ہیں' for Shah Abdul Aziz Dehlvi; p554 'مرحوم' dropped for Lakhnavi; p519 v3 note re-transcribed verbatim ('زیادہ ہو۔' not 'زیادہ ہوتی ہے۔'). 'جاری ہے' once, legitimate boundary note in jild8-p556 ('یہاں صفحہ 558 پر رسالہ جاری ہے اور اگلے چنک میں اس کا بقیہ حصہ آئے گا'), also in v3. Flags: none."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 8, pp. 559-608",
+   "end_page": 608,
+   "file": "jild-08-chunk-11.json",
+   "items": 25,
+   "pages_present": 50,
+   "start_page": 559,
+   "status": "done",
+   "verified": "2026-11-18 ~11:40 PKT — coordinator verified: 25 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 25/25 (as v3), notes 27 vs 24 (+3), glosses 202x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 (1 false positive — 'فرماتے ہیں' near وہابیہ has Ala Hazrat as subject), A2 kept: خیالِ ضلال 1, مرتد 2, ملعونہ 2, کافر 4, فاسدہ 2, کاسدہ 2, ضلالت 2, مردود 4, باطلِ محض 2, بدعتِ شنیعہ سیئہ 2, بدعتِ سیئہ 3, کذب 3. Fixes: p559 'باطل خیال' → 'گمراہ خیال (خیالِ ضلال)' per original p560; 'امامِ اعظم' title dropped for Nazir Hussain — plain name only; pp.602-604 'تصدیق نہ فرمائیں / ارسال فرمایا' → plain 'تصدیق نہ کی / بھیج دیا' for the opponent-circle ustadh; mid-write JSON comma lost at the append boundary — fixed and re-verified before reporting. Flags: none ('کافر' 4 vs 5 raw hits is phrase parity, not a miss — 5th hit is inside quoted سوال/verse text already rendered)."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 8, pp. 609-658",
+   "end_page": 658,
+   "file": "jild-08-chunk-12.json",
+   "items": 24,
+   "pages_present": 50,
+   "start_page": 609,
+   "status": "done",
+   "verified": "2026-11-18 ~11:40 PKT — coordinator verified: 24 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 23/23 (as v3, same items), notes 56 vs 52 (+4), glosses 457x 'کا مطلب' + 6x 'کہتے ہیں', A1=0 (1 grep flag was a false positive — istifta formula 'کیا فرماتے ہیں علمائے دین', subject علمائے دین), A2 kept: گمراہ 6, جہلائے مانعین 2, ہفوات باطلہ 2, خرافات عاطلہ 2, سارق 2, سرقہ 2, اعدائے سنن 2, طائفہ باطلہ 2, باطل 17, فاسد 2, جہالت 3, ضلالت 5, مذموم 12; original's 'کتا' hits all کتاب/کتب. Restorations: full رسالہ title «سعادۃ اہل الاسلام بالمصافحۃ عقب الصلوٰۃ والسلام» in p631 (v3 abbreviated it); Arabic Ayat of Surah Nuh in p641; bibliography items 16-24 keep all 353 entries (nos. 1-353) with مصنف/سن وفات as printed. 'جاری ہے' x12, ALL legitimate bibliography pagination sentences, identical counts in v3 per item. Flags: none."
+  },
+  {
+   "chunk": "13",
+   "description": "Jild 8, pp. 659-673",
+   "end_page": 673,
+   "file": "jild-08-chunk-13.json",
+   "items": 15,
+   "pages_present": 15,
+   "start_page": 659,
+   "status": "done",
+   "verified": "2026-11-18 ~11:37 PKT — coordinator verified: 15 items, ids/titles/pages identical+order, vol 48, sp==min all, 0 empty jawab, empty sawal 15/15 (as v3), notes 39 vs 24 (+15 restoration notes), glosses 7x 'کا مطلب' + 14x 'کہتے ہیں', A1=0 (فرمایا 0x; رحمۃ اللہ علیہ 4x, all for Ala Hazrat only), A2: original pp.659-673 contain NO harsh words (pure bibliography list); the only condemnatory phrases are book titles «فصل الخطاب فی رد ضلالات ابن عبد الوہاب» and «الدرر السنیۃ فی الرد علی الوہابیۃ», both kept verbatim. Restorations: کتاب الزہد fixed to عبداللہ بن مبارک (v3 wrongly gave it to ابن ابی الدنیا); کتاب الاصل fixed to امام محمد only; مسند الکبیر split into two distinct books (بزار 427 / کشی 428); الوقایۃ/الوسیط order fixed; نامِ حق (137) author شرف الدین بخاری restored (v3 note wrongly said no author); ~60 omitted entries/authors added across all 15 pages (incl. plain-name attributions for اسماعیل دہلوی، نذیر حسین دہلوی، گنگوہی، ابن تیمیہ — no honorifics). Flags: two print garbles flagged in notes, not altered — «مصنّف ابن ابی شیبۃ» (432) author printed as 'ابو بکر عبداللہ بن محمد احمد النسفی'; «الجامع لاحکام القرآن» printed with '(تفسیر طبی)' for تفسیر قرطبی."
+  }
+ ],
+ "total_pages_present": 619,
+ "volume": "Jild 8",
+ "volume_ids": [
+  48
+ ]
+}
